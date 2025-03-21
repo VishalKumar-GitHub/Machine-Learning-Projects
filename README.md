@@ -3,6 +3,8 @@
 Project : Sales Insights of Data Analysis-AtliQ Hardware
 Problem Statement :
 In this project performed India based AtliQ hardware company sales insights - A Data Analysis project.
+![image](https://github.com/user-attachments/assets/971c94ae-9601-43c7-a0d6-20179a95afb5)
+
 
 AtliQ Hardware is a company which supplies computer hardware and peripherals to many of clients such as surge stores, Nomad stores etc. across India. AtliQ Hardware head office is situated in Delhi, India and they have many regional office through out the India.
 
